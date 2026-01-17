@@ -46,9 +46,9 @@ import guruLogo from './assets/education_logo/gurulogo.png';
 import BiharLogo from './assets/education_logo/biharlogo.jpeg';
 import NaladaLogo from './assets/education_logo/nalanda.jpeg';
 // Project Section Logo's
-import chatapplicationLogo from './assets/work_logo/chatapplication.jpeg';
+import chatapplicationLogo from './assets/work_logo/chat.jpeg';
 import csprepLogo from './assets/work_logo/cs_prep.png';
-import LsmLogo from './assets/work_logo/lsm.png';
+import LsmLogo from './assets/work_logo/home.jpg';
 // import movierecLogo from './assets/work_logo/movie_rec.png';
 // import taskremLogo from './assets/work_logo/task_rem.png';
 // import npmLogo from './assets/work_logo/npm.png';
@@ -193,7 +193,7 @@ export const SkillsInfo = [
     {
       id: 3,
       img:NaladaLogo,
-      school: "Vatsalya Public School Govardhan, Mathura",
+      school: "Nalanda Public School Nawada, Bihar",
       date: "Apr 2019 - March 2020",
       grade: "87.5%",
       desc: "I completed my class 10 education from nalanda public school , Nawada, under the CBSE board, where I studied Science with Computer.",
@@ -207,7 +207,7 @@ export const SkillsInfo = [
       title: "Real-Time Chat Application",
       description:"Develped a real-Time messaging platform with end-to-end encrypted chat ,messaging,and online",
       image: chatapplicationLogo,
-      tags: ["MERN Stack", "WebSocket", "Authentication", "MongoDB", "API" ,"Express.js"],
+      tags: ["MERN Stack", "WebSocket", "Authentication", "MongoDB", "API" ,"Express.js" ,"Node.js"],
       github: "https://github.com/abhishek23027kushwaha/chat_application",
       webapp: "https://chat-application-1-hnag.onrender.com/",
     },
@@ -217,7 +217,7 @@ export const SkillsInfo = [
       description:
         "Developed a full-stack Learning Platform enabling course creation, enrollment, and progress tracking with role-based authentication. Implemented secure APIs and a responsive interface to support students, instructors.",
       image: LsmLogo,
-      tags: ["React JS", "Node.js", "MongoDB", "Express", "Firebase", "Authencation", "JavaScript","Redux"],
+      tags: ["React JS", "Node.js", "MongoDB", "Express", "Firebase","Razorpay", "Authencation", "JavaScript","Redux"],
       github: "https://github.com/abhishek23027kushwaha/LMS",
       webapp: "",
     },

@@ -30,8 +30,6 @@ import mcLogo from './assets/tech_logo/mc.png';
 import figmaLogo from './assets/tech_logo/figma.png';
 import netlifyLogo from './assets/tech_logo/netlify.png';
 import vercelLogo from './assets/tech_logo/vercel.png';
-import postgreLogo from './assets/tech_logo/postgre.png';
-import csharpLogo from './assets/tech_logo/csharp.png';
 import cloudinaryLogo from './assets/tech_logo/cloudinary.png';
 import renderLogo from './assets/tech_logo/render.png';
 // Experience Section Logo's
@@ -219,7 +217,7 @@ export const SkillsInfo = [
       image: LsmLogo,
       tags: ["React JS", "Node.js", "MongoDB", "Express", "Firebase","Razorpay", "Authencation", "JavaScript","Redux"],
       github: "https://github.com/abhishek23027kushwaha/LMS",
-      webapp: "",
+      webapp: "https://virtual-classes-5.onrender.com/",
     },
    
   ];  
